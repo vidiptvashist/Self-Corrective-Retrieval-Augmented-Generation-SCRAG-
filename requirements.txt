@@ -1,0 +1,7 @@
+langchain
+ollama
+chroma
+llama_index
+transformers
+sentence-transformers
+torch
